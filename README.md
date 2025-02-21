@@ -14,4 +14,5 @@ Halaman Nomor Antrian digunakan pengunjung untuk mengambil nomor antrian. Fitur 
 
 Halaman Panggilan Antrian digunakan petugas loket untuk memanggil antrian pengunjung. Halaman ini menampilkan informasi jumlah antrian, nomor antrian yang sedang dipanggil, nomor antrian selanjutnya yang akan dipanggil, sisa antrian yang belum dipanggil. Petugas loket dapat menekan tombol panggilan antrian pada layar untuk memanggil antrian dengan menggunakan suara yang bisa dihubungkan dengan alat pengeras suara. Untuk suara panggilan antrian pada aplikasi ini menggunakan library ResponsiveVoice.JS.
 
-bagus
+Saya samuel latekaya, seorang mahasiswa Teknik Informatika Universitas Negeri Surabaya. Aplikasi ini saya buat untuk memenuhi tugas mata kuliah Pemrograman Web.
+
